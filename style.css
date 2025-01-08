@@ -1,6 +1,24 @@
-* {
+body {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-wrap: wrap;
     font-family: "Inconsolata", monospace;
     background-color: #21153b;
     color: #cbafe0;
 }
 
+ul, ol {
+    text-align: left;
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    padding: 15px;
+    background-color: #43324d;
+    height: auto;
+    width: fit-content;
+    max-width: 50%;
+}
