@@ -22,3 +22,7 @@ ul, ol {
     width: fit-content;
     max-width: 50%;
 }
+
+footer {
+    font-size: 7px;
+}
