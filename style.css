@@ -26,3 +26,13 @@ ul, ol {
 footer {
     font-size: 7px;
 }
+
+a {
+    color: #9175e0;
+    text-decoration: none;
+}
+
+a:active, a:hover {
+    font-style: italic;
+}
+

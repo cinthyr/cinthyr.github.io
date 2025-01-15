@@ -1,1 +1,2 @@
-i mean this is supposed to be my personal website but really i'm not getting anything done? lmao
+**hi :3**
+this is supposed to be my personal website but idk what i'm doing lmfao
