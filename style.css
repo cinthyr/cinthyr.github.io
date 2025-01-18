@@ -12,6 +12,11 @@ ul, ol {
     text-align: left;
 }
 
+#links {
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
 .box {
     margin-left: auto;
     margin-right: auto;
